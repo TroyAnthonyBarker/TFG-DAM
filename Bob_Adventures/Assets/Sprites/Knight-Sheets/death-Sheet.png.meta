@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: 0c158668f0113774083c88aab5b346e3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: death-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 55
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f754b364b59f048821654803c18f18
+      internalID: -1222605001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 99
+        width: 64
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21da9a46b0bbacb44bc83482c153ec05
+      internalID: -155425767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 97
+        width: 94
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4388d0f34d831f46b0c90a782d1843c
+      internalID: -465117012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 100
+        width: 69
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6fdef158abda140a7fe62f8337e8af
+      internalID: 29664370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 91
+        width: 106
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4074c1db77cf04e8f8d1b61ed1f537
+      internalID: 1818119430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 91
+        width: 104
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9f0e28ba2520947a183ff86fd24b80
+      internalID: 2014952391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 96
+        width: 107
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635bc521e4244694098d63082ecbc837
+      internalID: 1519433410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 92
+        width: 116
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf77e1dfe125b024680e5ffff16b08a5
+      internalID: -148564445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 78
+        width: 150
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365f6c6b37e833c468d7b11bf7a2c01c
+      internalID: -1335902459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 76
+        width: 132
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5610ae68e7d83a34cacdc887f161fa70
+      internalID: 1088493548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      death-Sheet_0: -1222605001
+      death-Sheet_1: -155425767
+      death-Sheet_10: 625315595
+      death-Sheet_11: 1023241804
+      death-Sheet_12: -1498415444
+      death-Sheet_13: 29664370
+      death-Sheet_14: -875420864
+      death-Sheet_15: 1043758699
+      death-Sheet_16: 1721251279
+      death-Sheet_17: -1143600904
+      death-Sheet_18: -953236281
+      death-Sheet_19: -164568284
+      death-Sheet_2: -148564445
+      death-Sheet_20: -1420410140
+      death-Sheet_21: -2073591837
+      death-Sheet_22: 528827465
+      death-Sheet_23: 1072669947
+      death-Sheet_24: 1554733462
+      death-Sheet_25: 1818119430
+      death-Sheet_26: 620225258
+      death-Sheet_27: 2014952391
+      death-Sheet_28: 1519433410
+      death-Sheet_29: -1869817174
+      death-Sheet_3: -1335902459
+      death-Sheet_30: 786319712
+      death-Sheet_31: 1633937573
+      death-Sheet_32: -1204253173
+      death-Sheet_33: -313310314
+      death-Sheet_34: -772684542
+      death-Sheet_35: 1953681645
+      death-Sheet_36: -657571343
+      death-Sheet_37: -1705544074
+      death-Sheet_38: -641559448
+      death-Sheet_39: -913305791
+      death-Sheet_4: -465117012
+      death-Sheet_40: -386152374
+      death-Sheet_41: -336753808
+      death-Sheet_42: -973042508
+      death-Sheet_43: 1834751533
+      death-Sheet_44: 668169381
+      death-Sheet_45: 1120688794
+      death-Sheet_46: -1025799451
+      death-Sheet_47: 1521221195
+      death-Sheet_48: 1174840099
+      death-Sheet_49: 2123315322
+      death-Sheet_5: 1088493548
+      death-Sheet_50: 1428358578
+      death-Sheet_51: 1266034764
+      death-Sheet_52: -89845240
+      death-Sheet_53: 1962934144
+      death-Sheet_54: -26438855
+      death-Sheet_55: 576230197
+      death-Sheet_56: 1611168579
+      death-Sheet_57: -954794568
+      death-Sheet_58: 129410550
+      death-Sheet_59: 1650865554
+      death-Sheet_6: 1500243585
+      death-Sheet_60: -512388670
+      death-Sheet_61: 2020306087
+      death-Sheet_62: 217609944
+      death-Sheet_63: -574240702
+      death-Sheet_64: -1693530745
+      death-Sheet_7: 301139400
+      death-Sheet_8: -296293624
+      death-Sheet_9: 367603307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

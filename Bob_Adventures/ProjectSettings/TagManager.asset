@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - Enemy
+  - HiddenRooms
+  - Collectable
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Collectables
+  - Water
+  - UI
+  - Ground
+  - Background
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 265606143
+    locked: 0
+  - name: Platform
+    uniqueID: 1721668541
+    locked: 0
+  - name: BackObjects
+    uniqueID: 105429103
+    locked: 0
+  - name: Enemies
+    uniqueID: 435682649
+    locked: 0
+  - name: HiddenRoom
+    uniqueID: 4079011331
+    locked: 0
+  - name: Player
+    uniqueID: 3890681251
+    locked: 0
+  - name: FrontObjects
+    uniqueID: 2153661939
+    locked: 0
